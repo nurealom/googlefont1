@@ -1,0 +1,18 @@
+/*font-family: 'Charm', cursive;*/
+/*font-family: 'Open Sans', sans-serif;*/
+body{
+	margin: 0;
+	padding: 0;
+}
+.font{
+	width: 80%;
+	margin: 0 auto;
+}
+.font p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+}
+.font p:last-child {
+	font-family: 'Staatliches', cursive;;
+	font-size: 30px;
+}
